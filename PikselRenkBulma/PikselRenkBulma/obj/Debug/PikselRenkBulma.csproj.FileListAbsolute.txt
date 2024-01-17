@@ -1,0 +1,12 @@
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\bin\Debug\PikselRenkBulma.exe.config
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\bin\Debug\PikselRenkBulma.exe
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\bin\Debug\PikselRenkBulma.pdb
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.csproj.AssemblyReference.cache
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.Form1.resources
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.Properties.Resources.resources
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.csproj.GenerateResource.cache
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.csproj.CoreCompileInputs.cache
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.exe
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.pdb
+C:\Users\muhen\source\repos\PikselRenkBulma\PikselRenkBulma\obj\Debug\PikselRenkBulma.Form2.resources
